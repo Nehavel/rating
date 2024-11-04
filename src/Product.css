@@ -1,0 +1,12 @@
+.category {
+    font-weight: 400;
+    font-style: bold;
+}
+
+.not-stocked {
+    color: red;
+}
+.form{
+    display: block;
+    margin-bottom: 5px;
+}

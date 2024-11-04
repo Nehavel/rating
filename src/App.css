@@ -1,0 +1,9 @@
+.star {
+  font-size: 2em;
+  color: #1b45ff;
+  cursor: pointer;
+  border: black;
+}
+.display-flex{
+  display: flex;
+}
